@@ -5,9 +5,18 @@
 Me chamo Karolyne Mirella e sou uma desenvolvedora em formação apaixonada por tecnologia. Com um background em Administração, fiz a transição de carreira para seguir minha verdadeira paixão. Atualmente, estou cursando Engenharia de Software e me aprofundando em desenvolvimento Full Stack.
 Busco me aprimorar constantemente, aplicando meus conhecimentos em projetos práticos e construindo soluções eficientes. Minha experiência anterior me proporciona uma visão analítica e de negócios que aplico na área de tecnologia.
 
----
+<div> 
+
+<a href="https://instagram.com/karolyne.mirella" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/karolyne-mirella-14245b260/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=karolynmirella03@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Envie um e-mail"/>
+</a>
+</div>
 
 ### 🤖 Linguagens e Tecnologias
+
+---
 
 <img 
     align="left" 
@@ -81,5 +90,6 @@ Busco me aprimorar constantemente, aplicando meus conhecimentos em projetos prá
   />
 
 </p>
+
 
 
